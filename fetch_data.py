@@ -10,7 +10,7 @@ QUERIES = {
     'dr_picker':      130862,
     'dr_pie':         130863,
     'dr_hora':        130864,
-    'dr_detalle':     130870,
+    'dr_detalle':     130869,  # ← era 130870, corregir
     'so_counter':     131326,
     'so_tienda':      131328,
     'so_tipo':        131327,
